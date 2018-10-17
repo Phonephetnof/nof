@@ -1,0 +1,14 @@
+{
+  "name": "sqlite3-bin",
+  "version": "1.0.0",
+  "description": "Collection of prebuilt binaries for SQLite3",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "sqlite3"
+  ],
+  "author": "Morten Olav Hansen <mortenoh@gmail.com>",
+  "license": "ISC"
+}
